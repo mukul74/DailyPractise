@@ -1,0 +1,1 @@
+Day 1 : Simple example of ZCR for 10 different genres
