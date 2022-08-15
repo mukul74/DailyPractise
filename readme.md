@@ -3,3 +3,4 @@ Day 2 : Simple example of waveform, spectrogram and mel spectrogram for 10 diffe
 Day 3 : Ordinary Least Square method for Liner Model using Linear Regression\
 Day 4 : Ordinary Least Square method for Liner Model using Ridge Regression\
 Day 5 : Small setup for YOLO for object detection
+Day 6 :  
