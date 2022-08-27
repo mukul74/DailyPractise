@@ -1,0 +1,15 @@
+artifact_uri: file:///c:\D_drive\Practise\MLops\experiments/1/7a96102c1e444b3391a56a7d358a0d5c/artifacts
+end_time: 1661590194581
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 7a96102c1e444b3391a56a7d358a0d5c
+run_uuid: 7a96102c1e444b3391a56a7d358a0d5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1661590194474
+status: 3
+tags: []
+user_id: agarw
