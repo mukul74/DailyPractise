@@ -10,3 +10,11 @@ DATA_DIR = Path(BASE_DIR, "data")
 # Create dirs
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 
+
+# config/config.py
+...
+# Assets
+PROJECTS_URL = "https://raw.githubusercontent.com/GokuMohandas/Made-With-ML/main/datasets/projects.csv"
+TAGS_URL = "https://raw.githubusercontent.com/GokuMohandas/Made-With-ML/main/datasets/tags.csv"
+
+
