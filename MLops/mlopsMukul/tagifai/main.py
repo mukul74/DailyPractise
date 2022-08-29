@@ -3,9 +3,10 @@
 import pandas as pd
 from pathlib import Path
 import warnings
+from argparse import Namespace
 
 from config import config
-from tagifai import utils
+from tagifai import utils, train
 
 warnings.filterwarnings("ignore")
 
@@ -24,9 +25,8 @@ def elt_data():
 
     logger.info("✅ Saved data!")
 
-# tagifai/main.py
 import json
-from tagifai import data, train, utils
+# from tagifai import data, train, utils, evaluate
 
 def train_model(args_fp):
     """Train a model given arguments."""
