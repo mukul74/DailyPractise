@@ -1,1 +1,6 @@
 MLops/mlops-course/*
+*.zip
+DL/archive_TSR/*
+DL/yolov5/*
+MLops/mlopsMukul/venv/*
+*.pdf

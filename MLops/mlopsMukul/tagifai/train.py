@@ -7,7 +7,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import SGDClassifier
 from sklearn.metrics import log_loss
 
-from tagifai import data, predict, utils, evaluate
+from tagifai import data, predict, utils
 
 
 def train(args, df, trial=None):

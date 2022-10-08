@@ -1,6 +1,6 @@
 # config/config.py
 from pathlib import Path
-import pretty_errors
+# import pretty_errors
 
 # Directories
 BASE_DIR = Path(__file__).parent.parent.absolute()
